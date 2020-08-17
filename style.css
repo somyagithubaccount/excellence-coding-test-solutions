@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+/* solution-ques-5 */
+.heading {
+  border: 2px solid grey;
+  border-radius: 25px;
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+/* solution-ques-6 */
+.empty-box {
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -50px;
+}
